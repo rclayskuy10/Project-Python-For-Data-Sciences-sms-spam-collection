@@ -1,5 +1,5 @@
 # [Project] Python For Data Sciences kelompok 4
-# Author : mohitgupta-101
+# Author : Mohit Gupta/mohitgupta-101
 # Mentee Info
 # Program : IBM Advance AI
 
